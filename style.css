@@ -1,0 +1,12 @@
+.column1 {
+    display: flex;
+    flex-flow: column wrap;
+
+}
+
+h1 { display: flex;
+    justify-content: center;
+}
+
+#box {
+}
